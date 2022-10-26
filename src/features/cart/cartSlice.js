@@ -9,6 +9,7 @@ const initialState = {
     isLoading: true,
 };
 
+// the slice will hold the name of our states, our states, and the functions (reducers) that will change the states
 const cartSlice = createSlice({
     name: 'cart',
     initialState,
