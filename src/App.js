@@ -1,9 +1,9 @@
-import Counter from './components/Counter';
+import PostList from './features/PostList';
 
 export default function App() {
   return (
     <main>
-      <Counter />
+      <PostList />
     </main>
   )
 }
