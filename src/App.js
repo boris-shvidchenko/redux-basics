@@ -1,7 +1,7 @@
 export default function App() {
   return (
     <main>
-      <div>Test</div>
+      <div>App page</div>
     </main>
   )
 }
